@@ -1,0 +1,14 @@
+[submodule "melbournepredicts/themes/themes/eureka"]
+	path = melbournepredicts/themes/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "melbournepredicts/themes/eureka"]
+	path = melbournepredicts/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "melbournepredicts/melbournepredicts.github.io"]
+	path = melbournepredicts/melbournepredicts.github.io
+	url = https://github.com/farkasr215/melbournepredicts.github.io.git
+	branch = main
+[submodule "melbournepredicts/public"]
+	path = melbournepredicts/public
+	url = https://github.com/farkasr215/melbournepredicts.github.io.git
+	branch = main
