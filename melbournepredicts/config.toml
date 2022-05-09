@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/farkasr215/melbournepredicts.github.io.git/'
+baseURL = 'https://farkasr215.github.io/website/'
 languageCode = 'en-us'
 title = 'Analysis on the impact of microclimate factors on pedestrian behaviour – or is it the other way around?'
 theme = 'contrast-hugo'
